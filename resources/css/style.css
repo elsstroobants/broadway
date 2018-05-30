@@ -51,6 +51,20 @@ a {
 
 footer {
   background-color: dimgray;
-  font-size: 11px;
   color: white;
+  text-align: left;
+}
+
+footer li {
+  display: inline;
+  font-size: 14px;
+}
+
+footer p {
+  font-size: 11px;
+}
+
+.copy,
+.links {
+  display: inline;
 }
